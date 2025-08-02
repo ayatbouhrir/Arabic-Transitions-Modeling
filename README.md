@@ -93,10 +93,3 @@ Ce projet propose une solution robuste et adaptable pour :
 4. Manning & Schütze (1999) — *Foundations of Statistical NLP*  
 5. [Kaggle: Tashkeela Dataset](https://www.kaggle.com/datasets/hamzaabbad/tashkeela-processed-fully-diacritized-arabic-text/data)
 
----
-
-## 🧠 Auteur
-
-**Ayat BOUHRIR**  
-Master MLAIM — FSDM USMBA  
-CNE : N13003366
